@@ -1,1 +1,3 @@
-# it2351Lab4
+Executive summary 
+
+It was very hard, time taking assignment. At the same time, it required a lot of material review and learning. I have learned how to create procedures and how to call them.  I have learned how to create variables inside the procedure, how to assign values to variables, how to pass variables to procedures, how to return variable values from procedures. Also, to receive the returned variable values to inside the call. How to raise exceptions, how to catch and report exceptions. Also I have learned how to create triggers, and how to reference newly updated row, deleting from multiple using transactions and rolling back if any errors occurred.
